@@ -20,16 +20,16 @@ div#brand-name{
     background-size: cover;
 }
 .carousel-item .landing1 {
-    background-image: url("../images/susancedric.jpg");
+    background-image: url("../images/susan1.jpg");
 }
 .carousel-item .landing2 {
-    background-image: url("../images/lian2.jpg");
-}
-.carousel-item .landing3 {
     background-image: url("../images/christine2.jpg");
 }
-.carousel-item .landing4 {
+.carousel-item .landing3 {
     background-image: url("../images/lian4.jpg");
+}
+.carousel-item .landing4 {
+    background-image: url("../images/susan2.jpg");
 }
 .carousel-inner h1 {
     /* styling the catch phrase */
