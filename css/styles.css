@@ -1,7 +1,7 @@
 /* LANDING PAGE */
 div#brand-name{
   font-family: 'Dancing Script', cursive;
-  font-size: 6vw;
+  font-size: 3vw;
   display: inline;
   max-height: 2%;
 }
@@ -29,7 +29,7 @@ div#brand-name{
     background-image: url("../images/lian4.jpg");
 }
 .carousel-item .landing4 {
-    background-image: url("../images/susan2.jpg");
+    background-image: url("../images/christine9.jpg");
 }
 .carousel-inner h1 {
     /* styling the catch phrase */
@@ -42,9 +42,36 @@ div#brand-name{
 .nav-link{
   font-family: 'Dancing Script', cursive;
   font-weight: bold;
-  font-size:30px;
+  font-size:25px;
 }
 /*LANDING PAGE */
+
+/* BIO */
+.content {
+  font-size: 80px;
+  color:white;
+  width: auto;
+  font-family:'Josefin Sans', sans-serif;
+}
+.little{
+  font-family: 'Dancing Script', cursive;
+  font-size:80px;
+  color:white;
+  text-align: center;
+  letter-spacing: 2px;
+}
+h5{
+  text-align: center;
+  font-family: 'Dancing Script', cursive;
+  font-weight: bold;
+  font-size:50px;
+}
+#packages{
+  border: 2px solid black;
+  padding: 6px;
+  margin: 20px;
+}
+/* BIO */
 
 /* PORTFOLIOS */
 /* Style the tab */
@@ -109,16 +136,6 @@ h1{
 h2{
   text-align: center;
   font-family:'Josefin Sans', sans-serif;
-}
-.column {
-  float: left;
-  padding:33.33%;
-  padding:5px;
-}
-.row:after{
-  content:"";
-  clear:both;
-  display:table;
 }
 /* PACKAGES */
 
